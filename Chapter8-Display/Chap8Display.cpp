@@ -5,7 +5,7 @@
 
 int main() {
 
-  displayTitle("Testing Chap7Display");
+  displayTitle("Testiing Chap7Display");
 
   displayDemo("--- displayTuple ---\n  ");
 
